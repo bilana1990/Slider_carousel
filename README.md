@@ -1,1 +1,1 @@
-# Slider_carousel
+this is slider carousel with HTML,CSS and JS.
